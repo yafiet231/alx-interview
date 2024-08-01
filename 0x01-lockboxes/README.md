@@ -9,7 +9,7 @@
 **Lists and List Manipulation:**
 
 Understanding how to work with lists, including accessing elements, iterating over lists, and modifying lists dynamically.
-[Python Lists (Python Official Documentation)]('https://docs.python.org/3/tutorial/datastructures.html'))
+[Python Lists (Python Official Documentation]('https://docs.python.org/3/tutorial/datastructures.html'))
 Graph Theory Basics:
 
 Although not explicitly required, knowledge of graph theory (especially concepts related to traversal algorithms like Depth-First Search or Breadth-First Search) can be very helpful in solving this problem, as the boxes and keys can be thought of as nodes and edges in a graph.
