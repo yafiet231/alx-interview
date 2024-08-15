@@ -32,7 +32,7 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 
 - Using dictionaries to count occurrences of status codes and accumulate file sizes.
 
-[Python Dictionaries](#"https://docs.python.org/3/tutorial/datastructures.html#dictionaries")
+[Python Dictionaries](# "https://docs.python.org/3/tutorial/datastructures.html#dictionaries")
 
 6.**Exception Handling:**
 
