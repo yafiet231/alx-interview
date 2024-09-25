@@ -26,13 +26,14 @@ Developing a method to count the edges that contribute to the island’s perimet
 # Resources:
 
 - Python Official Documentation:
+
 [Nested Lists:](# 'https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions') Understanding how to work with lists within lists in Python.
 
 - GeeksforGeeks Articles:
-    - [Python Multi-dimensional Arrays:] (# '(# 'https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-       way/') A guide to working with 2D arrays in Python effectively.
+    - [Python Multi-dimensional Arrays:](# 'https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-       way/') A guide to working with 2D arrays in Python effectively.
 
 - TutorialsPoint:
-    - [Python Lists:] (# 'https://www.tutorialspoint.com/python/python_lists.htm') Explains how to create, access, and       manipulate lists in Python, which is essential for working with a grid.
+    - [Python Lists:](# 'https://www.tutorialspoint.com/python/python_lists.htm') Explains how to create, access, and       manipulate lists in Python, which is essential for working with a grid.
 
 - YouTube Tutorials:
     - [Python 2D arrays and lists](# 'https://www.youtube.com/watch?v=aNzepGawwCI')
