@@ -27,7 +27,7 @@ Developing a method to count the edges that contribute to the island’s perimet
 
 - Python Official Documentation:
 
-[Nested Lists:](# 'https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions') Understanding how to work with lists within lists in Python.
+    - [Nested Lists:](# 'https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions') Understanding how to work with lists within lists in Python.
 
 - GeeksforGeeks Articles:
     - [Python Multi-dimensional Arrays:](# 'https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-       way/') A guide to working with 2D arrays in Python effectively.
